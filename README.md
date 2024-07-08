@@ -1,2 +1,9 @@
-# cooking-book-apk
-Aplikasi android dengan library flet phyton
+# A cooking-book Flet app
+
+An example of a minimal Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
